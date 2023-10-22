@@ -1,7 +1,7 @@
 ## Olá, Eu sou Eric
 
 - 🔭 Hoje trabalho com conserto e atualização de mircros. 
-- 🧩 Estou estudando Python
+- 🧩 Estou estudando Python🐍, java☕
 - 😄 Pronomes: Ele/Dele
 - 👨‍🎓 Faço Analise e Desenvolvimento de Sistemas
 
