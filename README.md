@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com conserto e atualização de micros. 
 - 🧩 Estou estudando Python🐍, java☕
-- 👨‍🎓 Faço Analise e Desenvolvimento de Sistemas
+- 👨‍🎓 Faço Analise e Desenvolvimento de Sistemas (2° Semestre)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
