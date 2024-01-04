@@ -5,8 +5,11 @@
 - 👨‍🎓 Faço Analise e Desenvolvimento de Sistemas (2° Semestre)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eric-Html" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f9t1eeISadHhjK5QYejJBg.png">
+  <img align="center" alt="Eric-css" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f9t1eeISadHhjK5QYejJBg.png">
+  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eric-Java" height="30" width="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png.webp">
 </div>
 
 ## 
