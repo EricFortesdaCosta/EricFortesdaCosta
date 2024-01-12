@@ -1,7 +1,6 @@
 ## Olá, Eu sou Eric !!!
 
 - 🔭 Hoje trabalho com conserto e atualização de micros. 
-- 🧩 Estou estudando Python🐍, java☕
 - 👨‍🎓 Faço Analise e Desenvolvimento de Sistemas (3° Semestre)
 
 <div style="display: inline_block"><br>
