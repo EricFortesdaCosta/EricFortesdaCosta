@@ -18,6 +18,7 @@
 <div>
   <a href = "mailto:ericcostaf.w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericcostaw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href=https://replit.com/@EricFortesdaCos target="_blank"><img src="https://camo.githubusercontent.com/2122dfda73db56c2f9076c39b4a4c733022864ea9a591f296718316bb4d84e17/68747470733a2f2f7265706c2e69742f7075626c69632f696d616765732f6170706c652d746f7563682d69636f6e2e706e67" target="_blank"><a>
 </div>
 
 
