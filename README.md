@@ -20,6 +20,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-6D237C?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 ![java](https://img.shields.io/badge/%E2%98%95%20Java-1d262c?style=for-the-badge&logo=%E2%98%95&logoColor=white)&nbsp;
 ![FireBase](https://img.shields.io/badge/firebase-a3581e?style=for-the-badge&logo=firebase&logoColor=orange)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android_Studio-142800?style=for-the-badge&logo=Android&logoColor=Green)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
@@ -31,7 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
