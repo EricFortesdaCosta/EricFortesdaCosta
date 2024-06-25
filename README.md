@@ -19,7 +19,11 @@
 #### Main Stack:
 ![Kotlin](https://img.shields.io/badge/Kotlin-6D237C?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 ![java](https://img.shields.io/badge/%E2%98%95%20Java-1d262c?style=for-the-badge&logo=%E2%98%95&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![FireBase](https://img.shields.io/badge/firebase-a3581e?style=for-the-badge&logo=firebase&logoColor=orange)&nbsp;
+![Android](https://img.shields.io/badge/Android_Studio-142800?style=for-the-badge&logo=Android&logoColor=Green)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
