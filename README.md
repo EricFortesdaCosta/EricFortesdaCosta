@@ -5,7 +5,6 @@
 <p align="center">I 💖 Solve big challenges using technology.<br><br> Passionate mobile developer dedicated to solving complex problems through technology. I am a Mobile Development student currently pursuing a degree in Systems Analysis and Development. I have skills in HTML, CSS, JavaScript, Kotlin, Java, Python, and an analytical approach to understanding user needs. I have participated in projects that enhanced user experience and seek challenging opportunities to grow professionally, applying my skills to innovative and meaningful solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EricFortesdaCosta&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=EricFortesdaCosta&show_icons=true&theme=radical&layout=compact" />
  </div>
  
