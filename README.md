@@ -4,13 +4,6 @@
 
 <p align="center">I 💖 Solve big challenges using technology.<br><br> Passionate developer dedicated to solving complex problems through technology. I am a Development student currently studying Systems Analysis and Development. I have skills in HTML, CSS, JavaScript, Kotlin, Java, Python and an analytical approach to understanding user needs. I have participated in projects that have enhanced the user experience and seek challenging opportunities to grow professionally by applying my skills to innovative and meaningful solutions.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-
- ### 30NitesOfCode:
- 
- [Check out my progress!](https://www.codedex.io/@EricFortes/30-nites-of-code)  
-  ![@EricFortes #30NitesOfCode](https://www.codedex.io/api/petStatus?user=EricFortes)
- 
  &nbsp;
  &nbsp;
 
